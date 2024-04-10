@@ -1,1 +1,1 @@
-# odin-receipes
+This is to list down the recipes of the most famous dishes.
